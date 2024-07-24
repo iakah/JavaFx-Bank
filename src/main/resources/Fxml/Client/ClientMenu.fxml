@@ -52,7 +52,7 @@
                <children>
                   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Report Bug?" />
                   <Label text="Use this to report any errors or make suggestions." />
-                  <Button mnemonicParsing="false" text="Report">
+                  <Button fx:id="report_btn" mnemonicParsing="false" text="Report">
                      <graphic>
                         <FontAwesomeIconView glyphName="PLUS" />
                      </graphic>
